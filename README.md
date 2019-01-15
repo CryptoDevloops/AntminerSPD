@@ -6,14 +6,19 @@ Video tutorial - https://www.youtube.com/watch?v=o_dqjd00Bv8
 
 Versions -
 
-Version V1.3 Released, Download link - 
-https://mega.nz/#!04BnQayJ!OhI6r2Yi3HMw72J6Pcqv_gQUpN78udjHy4nrR43h1yA
+Version V1.3.1 -
+
+- Antminer S15 added
+- "Script failed to run" error fixed
+- No need to open ports anymore
+
+Version V1.3 -
 
 - S9 / D3 compatibility issues fixed
 - Error #4409 problem fixed
 - Crashes fixed
 
-Version V1.2.2 Released
+Version V1.2.2 -
 
 - Z9 Mini HW Errors fixed
 - L3+ Support 
