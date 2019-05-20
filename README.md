@@ -1,6 +1,6 @@
 # AntminerSPD
 AntminerSPD gives your antminer a small boost and increases its hashrate.
-This video will show you exactly how to use the AntminerSPD so you will be able to boost your asic machine.
+This video will show you exactly how to use the program so you will be able to boost your asic machine.
 * AntminerSPD doesnt work with GPU mining
 Very easy to use.
 Tutorial video - https://www.youtube.com/watch?v=o_dqjd00Bv8
