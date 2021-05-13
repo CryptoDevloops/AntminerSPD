@@ -6,6 +6,7 @@ Version V1.5.2
 
 - Fixed latest stability issues
 - Added support for all Bitmain asic miners
+- Added support for Nvidia RTX 3060,3060TI,3070,3080,3090 graphic cards
 
 Version V1.5.1 -
 
